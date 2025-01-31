@@ -1,4 +1,4 @@
-# 🎁 Amigo Secreto
+   # 🎁 Amigo Secreto
 
 Este es un proyecto web interactivo que permite a los usuarios **agregar nombres de amigos** y **sortear aleatoriamente** quién será el "amigo secreto". Ideal para celebraciones, eventos y juegos en grupo. 🎉  
 
@@ -22,9 +22,13 @@ El proyecto está desarrollado con:
 ## 📂 Estructura del Proyecto
 
 📁 AmigoSecreto/ 
+
    │── 📄 index.html # Página principal 
+   
    │── 📄 style.css # Estilos de la interfaz 
+   
    │── 📄 app.js # Lógica de la aplicación 
+   
    │── 📁 assets/ # Imágenes y recursos
 
 
