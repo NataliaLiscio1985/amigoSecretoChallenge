@@ -52,9 +52,6 @@ Este proyecto sigue las mejores prácticas de accesibilidad, incluyendo:
 ✅ Navegación optimizada para teclado (sin necesidad de mouse).
 ✅ Contrastes adecuados para personas con dificultades visuales.
 
-📷 Capturas de Pantalla
-Aquí puedes incluir capturas de pantalla del proyecto en funcionamiento.
-
 🛠 Contribuciones
 ¿Quieres mejorar este proyecto? ¡Siéntete libre de hacer un fork y enviar un pull request con mejoras!
 Si encuentras errores o tienes sugerencias, abre un issue en el repositorio.
