@@ -21,7 +21,11 @@ El proyecto está desarrollado con:
 
 ## 📂 Estructura del Proyecto
 
-📁 AmigoSecreto/ │── 📄 index.html # Página principal │── 📄 style.css # Estilos de la interfaz │── 📄 app.js # Lógica de la aplicación │── 📁 assets/ # Imágenes y recursos
+📁 AmigoSecreto/ 
+   │── 📄 index.html # Página principal 
+   │── 📄 style.css # Estilos de la interfaz 
+   │── 📄 app.js # Lógica de la aplicación 
+   │── 📁 assets/ # Imágenes y recursos
 
 
 ## 🛠️ Cómo Ejecutar el Proyecto
